@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/robert/esp/u8g2_test/build/CMakeFiles/bootloader
+/home/robert/esp/u8g2_test/build/CMakeFiles/bootloader.rule
+/home/robert/esp/u8g2_test/build/CMakeFiles/bootloader-complete.rule
+/home/robert/esp/u8g2_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/robert/esp/u8g2_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/robert/esp/u8g2_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/robert/esp/u8g2_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/robert/esp/u8g2_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/robert/esp/u8g2_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/robert/esp/u8g2_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
